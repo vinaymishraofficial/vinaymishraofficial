@@ -1,16 +1,19 @@
-## Hi there 👋
+# Vinay Mishra
 
-<!--
-**vinaymishraofficial/vinaymishraofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | SEO Expert | WordPress Trainer**
 
-Here are some ideas to get you started:
+📍 Alwar, Rajasthan | 🕹️ Gamer @ Vynsh Playz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python, Django, ERPNext
+- HTML, CSS, JavaScript, PHP
+- SEO, Google Ads, Meta Ads
+- WordPress, Frappe
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaymishraofficial&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- Email: vinay.alwar89@gmail.com
+- Telegram: @vinaymishraofficial
+- Portfolio: [vinaymishra.in](https://vinaymishra.in)
