@@ -1,8 +1,8 @@
 # Vinay Mishra
 
-**Backend Developer | SEO Expert | WordPress Trainer**
+**Backend Developer | ERPNext | Frappe Framework | Django Framework**
 
-📍 Alwar, Rajasthan | 🕹️ Gamer @ Vynsh Playz
+📍 Alwar, Rajasthan 
 
 ## 🔧 Skills
 - Python, Django, ERPNext
