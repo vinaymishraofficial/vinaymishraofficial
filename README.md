@@ -1,7 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **ERPNext SCADA Integration** and **Weighbridge App**<br>
 - 🤝 I’m looking to collaborate on **Open Source ERP & Python Projects**<br>
-- 🧠 I’m looking for help with **OPC UA → ERPNext Communication & Docker Deployment**<br>
 - 🌱 I’m currently learning **Django REST Framework, WebSocket, Frappe Apps**<br>
 - 💬 Ask me about **SEO, Python, ERPNext, WordPress, Google Ads**<br>
 - ⚡ Fun fact: I drink more coffee than water ☕ + debug dreams while sleeping 🧠<br>
