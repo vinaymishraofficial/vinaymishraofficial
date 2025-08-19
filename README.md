@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🤝 I’m looking to collaborate on **Open Source ERP & Python Projects**<br>
 - 🌱 I’m currently learning **Django REST Framework, WebSocket, Frappe Apps**<br>
-- 💬 Ask me about **SEO, Python, ERPNext, WordPress, Google Ads**<br>
+- 💬 Ask me about **Python, Django Framework, Django RestFramework, ERPNext, WordPress, Google Ads, Digital Marketing**<br>
 - ⚡ Fun fact: I drink more coffee than water ☕ + debug dreams while sleeping 🧠<br>
 
 ## 🌐 Socials:
