@@ -1,20 +1,72 @@
-# 💫 About Me:
-- 🤝 I’m looking to collaborate on **Open Source ERP & Python Projects**<br>
-- 🌱 I’m currently learning **Django REST Framework, WebSocket, Frappe Apps**<br>
-- 💬 Ask me about **Python, Django Framework, Django RestFramework, ERPNext, WordPress, Google Ads, Digital Marketing**<br>
-- ⚡ Fun fact: I drink more coffee than water ☕ + debug dreams while sleeping 🧠<br>
+<h1 align="center">⚡ VINAY MISHRA</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vinaymishraofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinaymishraofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaymishraofficial) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_vinaymishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinay.alwar89@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frappe+%7C+ERPNext+Architect;Python+%26+JavaScript+Engineer;Building+the+Future+with+Open+Source" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vinaymishraofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinaymishraofficial&color=7b2fff&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=vinaymishraofficial&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛸 About Me
+
+> **Frappe developer & full-stack engineer** — crafting custom ERPNext apps, RESTful APIs, and production-grade backends with Python & JavaScript.
+
+- 🔭 Currently building: **Custom Frappe Apps & ERPNext Modules**
+- 🌱 Exploring: **Frappe Cloud, Vue 3, REST API Design**
+- 💬 Ask me about: **Frappe, ERPNext, Python, MariaDB**
+- ⚡ Fun fact: I talk to doctypes more than people
+
+---
+
+## 🧬 Tech Arsenal
+
+```
+Frappe Framework  ██████████████████░░  92%
+Python            █████████████████░░░  88%
+MariaDB / SQL     █████████████████░░░  85%
+JavaScript        ████████████████░░░░  82%
+REST API Design   ████████████████░░░░  80%
+Vue / Jinja       ██████████████░░░░░░  74%
+```
+
+---
+
+## 🚀 Tech Stack
+
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📡 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinaymishraofficial&show_icons=true&theme=radical&hide_border=true&bg_color=000814&title_color=00c8ff&icon_color=7b2fff&text_color=8ab8d8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaymishraofficial&layout=compact&theme=radical&hide_border=true&bg_color=000814&title_color=00c8ff&text_color=8ab8d8" width="48%" />
+</p>
+
+---
+
+## 🌐 Open Channel
+
+<p align="center">
+  <a href="https://github.com/vinaymishraofficial"><img src="https://img.shields.io/badge/GitHub-7b2fff?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vinaymishraofficial"><img src="https://img.shields.io/badge/LinkedIn-0089ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vinaymishraofficial@gmail.com"><img src="https://img.shields.io/badge/Email-ff2fa0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
+</p>
+
+<p align="center"><i>⚡ Frappe · Python · JavaScript · Built with passion from India 🇮🇳</i></p>
